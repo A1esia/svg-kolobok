@@ -1,0 +1,27 @@
+<svg width="1200" height="600" xmlns="http://www.w3.org/2000/svg">
+            <ellipse cx="510" cy="495" ry="18" rx="75" fill="#B1B1B1"></ellipse>
+            <ellipse cx="850" cy="495" ry="18" rx="75" fill="#B1B1B1"></ellipse>
+            <circle cx="505" cy="370" r="120" fill="orange"></circle>
+            <circle cx="555" cy="370" r="50" fill="white"></circle>
+            <circle cx="505" cy="370" r="50" fill="white"></circle>
+            <circle cx="545" cy="365" r="8" fill="black"></circle>
+            <circle cx="505" cy="365" r="8" fill="black"></circle>
+            <circle cx="530" cy="410" r="12" fill="black"></circle>
+
+            <circle cx="845" cy="370" r="120" fill="yellow"></circle>
+            <circle cx="805" cy="350" r="50" fill="white"></circle>
+            <circle cx="875" cy="355" r="50" fill="white"></circle>
+            <circle cx="855" cy="365" r="8" fill="black"></circle>
+            <circle cx="795" cy="365" r="8" fill="black"></circle>
+            
+            <ellipse cx="410" cy="335" ry="30" rx="85" fill="orange" transform='rotate(10)'></ellipse>
+            <ellipse cx="840" cy="435" ry="19" rx="9" fill="#DC143C"></ellipse>
+            <ellipse cx="520" cy="445" ry="9" rx="19" fill="#DC143C"></ellipse>
+
+            <polygon points="295,420 285,370 263,390" fill="white"/>
+            <polygon points="408,300 395,250 438,270" fill="orange"/>
+            <polygon points="412,296 400,255 434,273" fill="black"/>
+            
+            <polygon points="588,286 578,223 540,260" fill="orange"/>
+            <polygon points="582,276 576,235 547,260" fill="black"/>
+        </svg> 
